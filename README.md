@@ -16,7 +16,8 @@ git clone https://github.com/naglaamossleh2016/guessing_game.git
 <ul><li>The game will generate a random number between 1 and 10.</li>
 <li>You need to guess the number.</li>
 <li>After each guess, the game will provide feedback (too high, too low, or correct).</li>
-<li>Keep guessing until you find the correct number or run out of attempts.</li></ul>
+<li>Keep guessing until you find the correct number.</li></ul>
+
 ### Features
 <ul><li>Randomly generated number between 1 and 10.</li>
 <li>User input validation.</li>
